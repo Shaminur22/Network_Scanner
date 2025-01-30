@@ -12,4 +12,4 @@ pip3 install sys
 deactivate
 
 run with 
-python3 net_scan.py
+python3 net_scan.py  --hosts [hosts IP]
